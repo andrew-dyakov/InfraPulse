@@ -1,0 +1,15 @@
+.git
+.env
+bin
+*.exe
+*.log
+state
+pki-secrets
+automation-secrets
+automation-work
+**/__pycache__
+**/*.pyc
+*.key
+*.pem
+**/*.key
+**/*.pem
